@@ -1,12 +1,23 @@
 {
   "Games": [
-    { "id": 1, "title": "Post 1" },
+    { "id": 1,"title": "Uncharted 4",
+        "description": "For the first time ever in Uncharted history, drive vehicles during gameplay",
+        "by": "Sony",
+        "platform": ["PS4"],
+        "age_rating": "16",
+        "likes": 100},
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
   "Comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "user": "bob",
+            "message": "Cracking game far too much cinematic",
+            "dateCreated": "2011-01-03",
+            "like": 6 },
+    { "user": "testingPriest",
+            "message": "Not enough shooting for me,far too easy ",
+            "dateCreated": "2011-04-02",
+            "like": 5}
   ],
   "profile": {
     "name": "PowderSniff"
