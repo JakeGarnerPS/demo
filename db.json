@@ -49,16 +49,9 @@
             "like": 5}
   ]}
   ],
-  "Reports": [
-    { "user": "bob",
-            "message": "Cracking game far too much cinematic",
-            "dateCreated": "2011-01-03",
-            "like": 6 },
-    { "user": "testingPriest",
-            "message": "Not enough shooting for me,far too easy ",
-            "dateCreated": "2011-04-02",
-            "like": 5}
-  ],
+  "Reports": {},
+    
+  
   "profile": {
     "name": "PowderSniff"
   }
